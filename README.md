@@ -8,7 +8,7 @@
 A comprehensive business management dashboard for freelancers. Manage clients, projects, invoices, time tracking, and settings – all with static mock data and a beautiful, responsive UI.
 
 ## 🚀 Live Demo
-[https://freelancepro-hub.vercel.app](https://freelancepro-hub.vercel.app)
+[https://freelancer-pro-hub-two.vercel.app/](https://freelancer-pro-hub-two.vercel.app/)
 
 ## ✨ Features
 - Dashboard – KPI cards, earnings chart, activity feed
