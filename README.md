@@ -124,6 +124,11 @@ Freelancer-pro-hub/
 └── metadata.json                 # Project metadata
 
 
+
+
+📸 Screenshot
+
+
 ## 🚦 Getting Started
 ```bash
 git clone https://github.com/birukdev12-senior/freelancepro-hub.git
@@ -132,10 +137,6 @@ npm install
 npm run dev
 
 Open http://localhost:3000.
-
-📸 Screenshot
-
-https://placehold.co/800x500?text=FreelancePro+Hub
 
 📜 License
 
