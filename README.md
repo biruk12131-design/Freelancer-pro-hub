@@ -129,6 +129,8 @@ Freelancer-pro-hub/
 📸 Screenshot
 
 
+![Freelancer-Pro-Hub](Copilot_20260624_020533.png)
+
 ## 🚦 Getting Started
 ```bash
 git clone https://github.com/birukdev12-senior/freelancepro-hub.git
