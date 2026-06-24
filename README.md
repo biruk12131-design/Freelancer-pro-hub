@@ -12,7 +12,7 @@ A comprehensive business management dashboard for freelancers. Fully built on mo
 
 ## Screenshot
 
-![Screenshot Placeholder](https://via.placeholder.com/1200x800?text=FreelancePro+Hub+Dashboard)
+![FreelancerPro Hub](Copilot_20260624_020533.png)
 
 ## Features
 
